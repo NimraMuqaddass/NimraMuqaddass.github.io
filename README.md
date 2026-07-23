@@ -123,8 +123,3 @@ Awarded Laptop by Prime Minister's Youth Laptop Scheme — August 2018
 
 **Technologies:** CFD (OpenFOAM), MATLAB (advanced), Mathematica (advanced), LaTeX (advanced), C++ (intermediate), FreeCAD & SALOME (intermediate), Fortran (basic), Python (basic), FEA library deal.II (basic), BEM solver Pi-BEM (basic)
 
----
-
-## References
-
-References are available upon request.
