@@ -1,8 +1,3 @@
----
-layout: default
-title: Resume
----
-
 # Nimra Muqaddass
 
 INRAE – UR OPAALE, 17 Avenue de Cucillé, CS 64427, 35000 Rennes, France
